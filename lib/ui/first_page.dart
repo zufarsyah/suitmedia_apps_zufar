@@ -127,7 +127,7 @@ class _FirstPageState extends State<FirstPage> {
                         builder: (context) {
                           return const AlertDialog(
                             content: Text(
-                                'Mohon diisi bagian palindrom sebelum berpindah halaman'),
+                                'Mohon diisi bagian Nama sebelum berpindah halaman'),
                           );
                         });
                   } else {
